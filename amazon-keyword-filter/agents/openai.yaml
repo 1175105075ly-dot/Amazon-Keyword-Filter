@@ -1,0 +1,4 @@
+interface:
+  display_name: "Amazon Keyword Filter"
+  short_description: "筛选并排序亚马逊关键词文件"
+  default_prompt: "请根据我提供的关键词文件，筛选并排序适合 Listing 和广告的关键词。"
